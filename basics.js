@@ -37,3 +37,6 @@ var myName = "Kevin";
  	name: "Spot",
  	bark: function() {console.log("Bow-wow");}
  };
+
+
+ // Check the mic, let's learn how to commit and push
